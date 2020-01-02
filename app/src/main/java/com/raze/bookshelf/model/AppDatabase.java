@@ -56,6 +56,17 @@ public abstract class AppDatabase extends RoomDatabase {
             bookDAO.insert(new Book("65481887451264", "Title1", "Author 1"));
             bookDAO.insert(new Book("99648248874112", "Title2", "Author 2"));
             bookDAO.insert(new Book("56185483214458", "Title3", "Author 3"));
+            bookDAO.insert(new Book("56185483214458", "Title4", "Author 1"));
+            bookDAO.insert(new Book("56345483214458", "Title5", "Author 3"));
+            bookDAO.insert(new Book("56185483214458", "Title6", "Author 3"));
+            bookDAO.insert(new Book("56185483214458", "Title7", "Author 2"));
+            bookDAO.insert(new Book("56185483214458", "Title8", "Author 3"));
+            bookDAO.insert(new Book("56185483214458", "Title9", "Author 3"));
+            bookDAO.insert(new Book("56185483214458", "Title10", "Author 1"));
+            bookDAO.insert(new Book("56185483214458", "Title11", "Author 3"));
+            bookDAO.insert(new Book("56185483214458", "Title12", "Author 2"));
+            bookDAO.insert(new Book("56185483214458", "Title13", "Author 3"));
+
             return null;
         }
     }
