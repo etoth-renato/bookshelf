@@ -9,6 +9,5 @@
     <string name="author">Author</string>
     <string name="edit_book_form_title">Book data</string>
     <string name="menu_item_book">Books</string>
-    <string name="author">Author</string>
     <string name="name_of_the_author">Name of the author</string>
 </resources>
